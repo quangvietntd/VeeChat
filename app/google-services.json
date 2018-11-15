@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "378195954183",
+    "firebase_url": "https://fir-app-a679a.firebaseio.com",
+    "project_id": "fir-app-a679a",
+    "storage_bucket": "fir-app-a679a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378195954183:android:8458d096c8057aa8",
+        "android_client_info": {
+          "package_name": "com.example.quangviet.bt_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378195954183-d2dv1sml1pu3hh80f1vcos3it0gdqhg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quangviet.bt_firebase",
+            "certificate_hash": "398df629c1bfe281eb6a3b6b240ebd7f8fa057c4"
+          }
+        },
+        {
+          "client_id": "378195954183-qqc4ibnri9cjqhuc3vi9rb83ob9shpfp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "378195954183-qqc4ibnri9cjqhuc3vi9rb83ob9shpfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhx48tHJ-ltQTJ3K0iNB79iWhUW7q3IqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378195954183-qqc4ibnri9cjqhuc3vi9rb83ob9shpfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378195954183:android:49cc0ddd2443d135",
+        "android_client_info": {
+          "package_name": "com.example.quangviet.veechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378195954183-mptfbfl6l4k1a8r40ijl8j7t4k9k2k58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quangviet.veechat",
+            "certificate_hash": "398df629c1bfe281eb6a3b6b240ebd7f8fa057c4"
+          }
+        },
+        {
+          "client_id": "378195954183-qqc4ibnri9cjqhuc3vi9rb83ob9shpfp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "378195954183-qqc4ibnri9cjqhuc3vi9rb83ob9shpfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhx48tHJ-ltQTJ3K0iNB79iWhUW7q3IqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378195954183-qqc4ibnri9cjqhuc3vi9rb83ob9shpfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
